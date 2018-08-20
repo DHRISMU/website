@@ -1,20 +1,20 @@
 # Site Information
 
-name: Digital Humanities Research Institute
-description: Digital Humanities Research Institute
-url: dhinstitutes.org
-title: Digital Humanities Research Institute
-host-institution: the Graduate Center, CUNY
-host-institution-url: https://www.gc.cuny.edu
-date-range: June 11-20, 2018
+name: Digital Humanities Research Institute at Southern Methodist University
+description: Digital Humanities Research Institute at Southern Methodist University
+url: https://dhrismu.github.io/home/
+title: Digital Humanities Research Institute at Southern Methodist University
+host-institution: Fondren Library, SMU
+host-institution-url: https://www.smu.edu/
+date-range: Summer, 2019
 apply-link: 
 author:
-  name: GC Digital Initiatives
-  email: info@dhinstitutes.org
-  url: https://gcdi.commons.gc.cuny.edu/
-  twitter: Digital_Fellows
-  github: http://github.com/GCDigitalFellows
-  address: Digital Scholarship Lab, Room 7414<br>The Graduate Center, CUNY<br>365 Fifth Avenue<br />New York, NY 10016<br>
+  name: DHRI@SMU
+  email: rmirza@smu.edu
+  url: https://www.smu.edu/Libraries
+  twitter: @smulibraries
+  github: https://github.com/DHRISMU
+  address:  Fondren Library 6414 Robert S. Hyer Lane, Dallas, TX 75205 
   description: GC Digital Initiatives builds and sustains an active community around the shared idea of a "Digital GC," where scholars and technologists explore new modes of inquiry that thoughtfully integrate digital tools and methods into the research, teaching, and service missions of the institution. Learn more on our <a href="https://gcdi.commons.gc.cuny.edu/about/">website</a>.
 
 

@@ -6,7 +6,7 @@ url: https://dhrismu.github.io/home/
 title: Digital Humanities Research Institute at Southern Methodist University
 host-institution: Fondren Library, SMU
 host-institution-url: https://www.smu.edu/
-date-range: Summer, 2019
+date-range: August 19-24, 2019
 apply-link: 
 author: 
   name: DHRI@SMU
@@ -15,53 +15,47 @@ author:
   twitter: smu_libraries 
   github: https://github.com/DHRISMU
   address: Fondren Library <br>6414 Robert S. Hyer Lane <br>Dallas, TX 75205 </br>
-  description: GC Digital Initiatives builds and sustains an active community around the shared idea of a "Digital GC," where scholars and technologists explore new modes of inquiry that thoughtfully integrate digital tools and methods into the research, teaching, and service missions of the institution. Learn more on our <a href="https://gcdi.commons.gc.cuny.edu/about/">website</a>.
-
-
+  description: DHRI at SMU is a pilot program that is working towards building and sustaining an active community around the shared idea of Digital Humanities and Digital Scholarship. 
 
 # A list of courses that appears on the curriculum page
 # Note that link-reference should be one short, descriptive word
 courses:
+  - name: Welcome
+    url: https://github.com/DHRISMU/intro 
+    link-reference: intro
+    description: pre attendance information. Additional description forthcoming. 
+  - name: Digital Humanities
+    url: https://github.com/DHRISMU/dh
+    link-reference: dh
+    description: Intro to DH jargon and terminology, attendees will learn to define DH in a way that is useful for them.
+  - name: Coding
+    url: https://github.com/DHRISMU/code 
+    link-reference: code 
+    description: What do we mean by coding? 
   - name: Command Line
-    url: https://github.com/DHRI-Curriculum/command-line
+    url: https://github.com/DHRISMU/command-line 
     link-reference: terminal
     description: Introduction to the UNIX command line. Topics covered will include navigating the filesystem, manipulating the environment, executing useful commands, and using pipes to communicate between programs. This session will teach you how to communicate directly with your computer’s operating system using a text-based interface and is a useful first step in learning many other technical skills.
   - name: Git
-    url: https://github.com/DHRI-Curriculum/git
+    url: https://github.com/DHRISMU/git 
     link-reference: git
     description: Git is a tool for managing changes to a set of files. It allows users to access open source repositories, recover earlier versions of a project, and collaborate with other contributors. This session will be beneficial to anyone working with data, code, or text.
-  - name: Python
-    url: https://github.com/DHRI-Curriculum/python
-    link-reference:  python
-    description: Python is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats, building web applications, and much more. It is likely the most popular language for academic researchers because of its flexibility and adaptability.
-  - name: Databases
-    url: https://github.com/DHRI-Curriculum/databases
-    link-reference: databases
-    description: Databases are invaluable tools for organization and are better than a spreadsheet for working with multiple data sets, asking questions, and adding structure to your data. SQL is a programming language for working with databases. This workshop will introduce you to the basics of SQL, and will include hands-on practice creating databases and tables, importing data, and querying the database.
-  - name: Text Analysis
-    url: https://github.com/DHRI-Curriculum/text-analysis
-    link-reference: text
-    description: This session will introduce text analysis and text classification in Python using The Natural Language Toolkit (NLTK) library and scikit-learn. Through attending this session, you will learn how to use Python to analyze large amounts of text (i.e., literary works, social media corpora, etc.) to find word frequencies, collocations, and learn the basics of text classification with machine learning. This session is designed for researchers who work with various forms of text-based data.
-  - name: Mapping
-    url: https://github.com/DHRI-Curriculum/mapping
-    link-reference: mapping
-    description: This session introduces simple yet powerful ways of displaying spatial information through CartoDB and QGIS. This session will be of particular interest both to researchers working with spatial information as well as anyone interested in storytelling with maps.
-  - name: Machine Learning 
-    url: https://github.com/DHRI-Curriculum/machine-learning
-    link-reference: ml
-    description: Machine learning is an application of artificial intelligence (AI) that provides systems the ability to automatically learn and improve from experience without being explicitly programmed.
-  - name: HTML & CSS
-    url: https://github.com/DHRI-Curriculum/html-css
-    link-reference: html
-    description: Modern web pages are created using HTML to control content, CSS to control appearance, and JavaScript to dictate behavior. This session will be helpful for anyone that wants to build on the web.
-  - name: Twitter API
-    url: https://github.com/DHRI-Curriculum/twitter-api
-    link-reference: twitter
-    description: This session will cover the basics of accessing data via the Twitter API. including specific challenges that arise when working with large, text-based data sets. This session will be beneficial for anyone who wants to collect data from Twitter or other social networks.
-  - name: Digital Ethics
-    url: https://github.com/DHRI-Curriculum/ethics
-    link-reference: ethics
-    description: A discussion of digital ethics with an emphasis on social justice, transparency, and accessibility.
+  - name: R
+    url: https://github.com/DHRISMU/r
+    link-reference:  r
+    description: R is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats. Additional description forthcoming. 
+  - name: Data
+    url: https://github.com/DHRISMU/data 
+    link-reference: data
+    description: What is data? Additional description forthcoming. 
+  - name: Geospatial Data
+    url: https://github.com/DHRISMU/geospatialdata 
+    link-reference: geospatial
+    description: This session will introduce geospatila data and analysis. Additional description forthcoming. 
+ # - name: Digital Ethics
+ #   url: https://github.com/DHRI-Curriculum/ethics
+ #   link-reference: ethics
+ #   description: A discussion of digital ethics with an emphasis on social justice, transparency, and accessibility.
 
 # this tells Jekyll to build the site in the "docs"
 # directory, which is ideal for hosting by GitHub Pages

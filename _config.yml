@@ -3,7 +3,7 @@
 name: Digital Humanities Research Institute at Southern Methodist University
 description: Digital Humanities Research Institute at Southern Methodist University
 url: https://dhrismu.github.io/home/
-title: Digital Humanities Research Institute at Southern Methodist University
+title: Digital Humanities Research Institute at SMU
 host-institution: Fondren Library, SMU
 host-institution-url: https://www.smu.edu/
 date-range: August 19-24, 2019
@@ -51,7 +51,7 @@ courses:
   - name: Geospatial Data
     url: https://github.com/DHRISMU/geospatialdata 
     link-reference: geospatial
-    description: This session will introduce geospatila data and analysis. Additional description forthcoming. 
+    description: This session will introduce geospatial data and analysis. Additional description forthcoming. 
  # - name: Digital Ethics
  #   url: https://github.com/DHRI-Curriculum/ethics
  #   link-reference: ethics

@@ -3,6 +3,7 @@
 name: Digital Humanities Research Institute at Southern Methodist University
 description: Digital Humanities Research Institute at Southern Methodist University
 url: https://dhrismu.github.io/home/
+baseurl: /home
 title: Digital Humanities Research Institute at SMU
 host-institution: Fondren Library, SMU
 host-institution-url: https://www.smu.edu/

@@ -24,15 +24,15 @@ courses:
   - name: Welcome
     url: https://github.com/DHRISMU/intro 
     link-reference: intro
-    description: pre attendance information. Additional description forthcoming. 
+    description: Introduction to the logistics and pedagogical underpinnings of DHRI. We will discuss expectations and structure. 
   - name: Digital Humanities
     url: https://github.com/DHRISMU/dh
     link-reference: dh
-    description: Intro to DH jargon and terminology, attendees will learn to define DH in a way that is useful for them.
+    description: We will establish a working definiton of what is (or what is not) DH. This concept is to be established collaboratively and will evolve during your experience.
   - name: Coding
     url: https://github.com/DHRISMU/code 
     link-reference: code 
-    description: What do we mean by coding? 
+    description: What do we hope to accomplish the session on coding. In this iteration of DHRI, we will learn Command Line, Git/Github and R.
   - name: Command Line
     url: https://github.com/DHRISMU/command-line 
     link-reference: terminal
@@ -44,15 +44,15 @@ courses:
   - name: R
     url: https://github.com/DHRISMU/r
     link-reference:  r
-    description: R is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats. Additional description forthcoming. 
+    description: R is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats.  
   - name: Data
     url: https://github.com/DHRISMU/data 
     link-reference: data
-    description: What is data? Additional description forthcoming. 
+    description: What is data, and what kinds of data can be useful in your research? Upon completion, participants will be able to describe best practices for data management, implement file naming rules, choose sustainable data formats, and structure data using tidy data principles. 
   - name: Geospatial Data
     url: https://github.com/DHRISMU/geospatialdata 
     link-reference: geospatial
-    description: This session will introduce geospatial data and analysis. Additional description forthcoming. 
+    description: This session will introduce geospatial data and analysis. We will also discuss how to choose the best tool to visualize your data. 
  # - name: Digital Ethics
  #   url: https://github.com/DHRI-Curriculum/ethics
  #   link-reference: ethics

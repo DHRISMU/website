@@ -21,22 +21,14 @@ author:
 # A list of courses that appears on the curriculum page
 # Note that link-reference should be one short, descriptive word
 courses:
-  - name: Welcome
+  - name: Welcome and Introduction to DHRI 
     url: https://github.com/DHRISMU/intro 
     link-reference: intro
-    description: Introduction to the logistics and pedagogical underpinnings of DHRI. We will discuss expectations and structure. 
-  - name: Digital Humanities
-    url: https://github.com/DHRISMU/dh
-    link-reference: dh
-    description: We will establish a working definiton of what is (or what is not) DH. This concept is to be established collaboratively and will evolve during your experience.
-  - name: Coding
-    url: https://github.com/DHRISMU/code 
-    link-reference: code 
-    description: What do we hope to accomplish the session on coding. In this iteration of DHRI, we will learn Command Line, Git/Github and R.
+    description: Introduction to the logistics and pedagogical underpinnings of DHRI. We will discuss expectations and structure. We will establish a working definiton of what is (or what is not) DH. This concept is to be established collaboratively and will evolve during your experience.
   - name: Command Line
     url: https://github.com/DHRISMU/command-line 
     link-reference: terminal
-    description: Introduction to the UNIX command line. Topics covered will include navigating the filesystem, manipulating the environment, executing useful commands, and using pipes to communicate between programs. This session will teach you how to communicate directly with your computer’s operating system using a text-based interface and is a useful first step in learning many other technical skills.
+    description: What do we hope to accomplish the session on coding. In this iteration of DHRI, we will learn Command Line, Git/Github and R. Introduction to the UNIX command line. Topics covered will include navigating the filesystem, manipulating the environment, executing useful commands, and using pipes to communicate between programs. This session will teach you how to communicate directly with your computer’s operating system using a text-based interface and is a useful first step in learning many other technical skills.
   - name: Git
     url: https://github.com/DHRISMU/git 
     link-reference: git
@@ -49,14 +41,18 @@ courses:
     url: https://github.com/DHRISMU/data 
     link-reference: data
     description: What is data, and what kinds of data can be useful in your research? Upon completion, participants will be able to describe best practices for data management, implement file naming rules, choose sustainable data formats, and structure data using tidy data principles. 
+  - name: Digital Ethics
+    url: https://github.com/DHRISMU/ethics
+    link-reference: ethics
+    description: A discussion of digital ethics with an emphasis on social justice, transparency, and accessibility.
   - name: Geospatial Data
     url: https://github.com/DHRISMU/geospatialdata 
     link-reference: geospatial
     description: This session will introduce geospatial data and analysis. We will also discuss how to choose the best tool to visualize your data. 
- # - name: Digital Ethics
- #   url: https://github.com/DHRI-Curriculum/ethics
- #   link-reference: ethics
- #   description: A discussion of digital ethics with an emphasis on social justice, transparency, and accessibility.
+ - name: Project Lab
+    url: https://github.com/DHRISMU/project-lab
+    link-reference: geospatial
+    description: This session will allow time to apply what we have leanred thought DHIR to your research interests.
 
 # this tells Jekyll to build the site in the "docs"
 # directory, which is ideal for hosting by GitHub Pages

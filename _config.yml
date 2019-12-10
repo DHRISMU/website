@@ -2,13 +2,13 @@
 
 name: Digital Humanities Research Institute at Southern Methodist University
 description: Digital Humanities Research Institute at Southern Methodist University
-url: https://dhrismu.github.io/home/
+url: https://southernmethodistuniversity.github.io/home/
 baseurl: /home
 title: Digital Humanities Research Institute at SMU
 host-institution: SMU Libraries
 host-institution-url: https://www.smu.edu/libraries
-date-range: August 19-22, 2019
-apply-link: https://smu.az1.qualtrics.com/jfe/form/SV_43dMdz0s9s4B1J3
+date-range: August 10-13, 2020
+apply-link: Not yet active https://smu.az1.qualtrics.com/jfe/form/SV_43dMdz0s9s4B1J3
 author: 
   name: DHRI@SMU
   email: rmirza@smu.edu
@@ -16,7 +16,7 @@ author:
   twitter: smu_libraries 
   github: https://github.com/DHRISMU
   address: Fondren Library <br>6414 Robert S. Hyer Lane <br>Dallas, TX 75205 </br>
-  description: DHRI at SMU is a pilot program that is working towards building and sustaining an active community around the shared idea of Digital Humanities and Digital Scholarship. 
+  description: DHRI at SMU is a program that is working towards building and sustaining an active community around the shared idea of Digital Humanities and Digital Scholarship. 
 
 # A list of courses that appears on the curriculum page
 # Note that link-reference should be one short, descriptive word
@@ -28,35 +28,35 @@ author:
 courses:
 
   - name: Intro
-    url: https://github.com/DHRISMU/intro  
+    url:  https://github.com/SouthernMethodistUniversity/intro
     link-reference: intro 
     description: Introduction to the logistics and pedagogical underpinnings of DHRI. We will discuss expectations and structure. We will establish a working definiton of what is (or what is not) DH. This concept is to be established collaboratively and will evolve during your experience.
   - name: Command Line
-    url: https://github.com/DHRISMU/command-line 
+    url: https://github.com/SouthernMethodistUniversity/command-line
     link -reference: command-line
     description: What do we hope to accomplish in the sessions on coding? In this iteration of DHRI, we will learn Command Line, Git and Github and R. Introduction to the UNIX command line. Topics covered will include navigating the filesystem, manipulating the environment, executing useful commands, and using pipes to communicate between programs. This session will teach you how to communicate directly with your computer’s operating system using a text-based interface and is a useful first step in learning many other technical skills.
   - name: Git
-    url: https://github.com/DHRI-Curriculum/git
+    url: https://github.com/SouthernMethodistUniversity/git 
     link-reference: git
     description: Git is a tool for managing changes to a set of files. It allows users to access open source repositories, recover earlier versions of a project, and collaborate with other contributors. This session will be beneficial to anyone working with data, code, or text.
   - name: R
-    url: https://github.com/DHRISMU/r
+    url: https://github.com/SouthernMethodistUniversity/r 
     link-reference: r
     description: R is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats.  
   - name: Data in the Humanities
-    url: https://github.com/DHRISMU/data 
+    url: https://github.com/SouthernMethodistUniversity/data 
     link-reference: data
-    description: What is data, and what kinds of data can be useful in your research?  What is data, and what kinds of data can be useful in your research? Attendees will participate in coversations about best practices for data management, file naming rules, sustainable data formats, and structuring data.
+    description: What is data, and what kinds of data can be useful in your research?  What is data, and what kinds of data can be useful in your research? Attendees will participate in conversations about best practices for data management, file naming rules, sustainable data formats, and structuring data.
   - name: Ethics
-    url: https://github.com/DHRISMU/ethics
+    url: https://github.com/SouthernMethodistUniversity/ethics
     link-reference: ethics
     description: A discussion of ethics with an emphasis on social justice, transparency, and accessibility.
-  - name: Geospatial Data 
-    url: https://github.com/DHRISMU/geospatialdata 
-    link-reference: geospatialdata
-    description: This session will introduce geospatial data and analysis. We will also discuss how to choose the best tool to visualize your datam and practice with the tool Storymaps.  
+  #- name: Geospatial Data 
+   # url: https://github.com/DHRISMU/geospatialdata 
+   # link-reference: geospatialdata
+   # description: This session will introduce geospatial data and analysis. We will also discuss how to choose the best tool to visualize your datam and practice with the tool Storymaps.  
   - name: Project Lab
-    url: https://github.com/DHRISMU/project-lab
+    url: https://github.com/SouthernMethodistUniversity/project-lab 
     link-reference: project-lab
     description: This session will allow time to apply what we have learned throughout DHRI to your research interests.
 

@@ -27,42 +27,34 @@ author:
 # Note that link-reference should be one short, descriptive word
 courses:
 
-  - name: Intro
-    url:  https://github.com/SouthernMethodistUniversity/previous
-    link-reference: intro 
-    description: Introduction to the logistics and pedagogical underpinnings of DHRI. We will discuss expectations and structure. We will establish a working definiton of what is (or what is not) DH. This concept is to be established collaboratively and will evolve during your experience.
-  - name: Command Line
-    url: https://github.com/SouthernMethodistUniversity/previous
-    link -reference: command-line
-    description: What do we hope to accomplish in the sessions on coding? In this iteration of DHRI, we will learn Command Line, Git and Github and R. Introduction to the UNIX command line. Topics covered will include navigating the filesystem, manipulating the environment, executing useful commands, and using pipes to communicate between programs. This session will teach you how to communicate directly with your computer’s operating system using a text-based interface and is a useful first step in learning many other technical skills.
-  - name: Git
-    url: https://github.com/SouthernMethodistUniversity/previous
-    link-reference: git
-    description: Git is a tool for managing changes to a set of files. It allows users to access open source repositories, recover earlier versions of a project, and collaborate with other contributors. This session will be beneficial to anyone working with data, code, or text.
-  - name: Python
-    url: https://github.com/SouthernMethodistUniversity/previous
-    link-reference: python
-    description: Python is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats. 
-  #- name: R
-  #  url: https://github.com/SouthernMethodistUniversity/previous
-  #  link-reference: r
-  #  description: R is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats.  
-  - name: Data in the Humanities
-    url: https://github.com/SouthernMethodistUniversity/previous
-    link-reference: data
-    description: What is data, and what kinds of data can be useful in your research?  What is data, and what kinds of data can be useful in your research? Attendees will participate in conversations about best practices for data management, file naming rules, sustainable data formats, and structuring data.
-  #- name: Ethics
-  #  url: https://github.com/SouthernMethodistUniversity/previous
-  #  link-reference: ethics
-  #  description: A discussion of ethics with an emphasis on social justice, transparency, and accessibility.
-  #- name: Geospatial Data 
-   # url: https://github.com/SouthernMethodistUniversity/previous
-   # link-reference: geospatialdata
-   # description: This session will introduce geospatial data and analysis. We will also discuss how to choose the best tool to visualize your datam and practice with the tool Storymaps.  
-  - name: Project Lab
-    url: https://github.com/SouthernMethodistUniversity/previous
-    link-reference: project-lab
-    description: This session will allow time to apply what we have learned throughout DHRI to your research interests.
+- name: Intro
+  url:  https://github.com/SouthernMethodistUniversity/intro
+  link-reference: intro 
+  description: Introduction to the logistics and pedagogical underpinnings of DHRI. We will discuss expectations and structure. We will establish a working definiton of what is (or what is not) DH. This concept is to be established collaboratively and will evolve during your experience.
+- name: Coding
+  url: https://github.com/SouthernMethodistUniversity/coding
+  link -reference: coding
+  description: What do we hope to accomplish in the sessions on coding? This session will discuss how to communicate directly with your computer’s operating system using a text-based interface and is a useful first step in learning many other technical skills.
+- name: Data in the Humanities
+  url: https://github.com/SouthernMethodistUniversity/previous
+  link-reference: data
+  description: What is data, and what kinds of data can be useful in your research? Attendees will participate in conversations about best practices for data management, file naming rules, sustainable data formats, and structuring data.
+- name: Python
+  url: https://github.com/SouthernMethodistUniversity/python 
+  link-reference: python
+  description: Python is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats. 
+- name: Tools 
+  url: https://github.com/SouthernMethodistUniversity/tools
+  link-reference: tools
+  description: This session will introduce DH tools. We will also discuss how to choose the best tool for your projects.
+- name: Access
+  url: https://github.com/SouthernMethodistUniversity/access 
+  link-reference: access
+  description: A discussion of issues around creating and accessing datasets; including copyright, licensing, and ethics.
+- name: Project Planning
+  url: https://github.com/SouthernMethodistUniversity/projectplan
+  link-reference: projectplan
+  description: This session will allow time to apply what we have learned throughout DHRI to your research interests.
 
 # this tells Jekyll to build the site in the "docs"
 # directory, which is ideal for hosting by GitHub Pages

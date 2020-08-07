@@ -41,7 +41,7 @@ courses:
   description: What is data, and what kinds of data can be useful in your research? Attendees will participate in conversations about best practices for data management, file naming rules, sustainable data formats, and structuring data.
 - name: Python
   url: https://github.com/SouthernMethodistUniversity/Text_Mining_Python
-  link-reference: python
+  link-reference: Text_Mining_Python
   description: Python is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats. 
 - name: Tools 
   url: https://github.com/SouthernMethodistUniversity/tools

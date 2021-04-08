@@ -7,13 +7,14 @@ baseurl: /home
 title: Digital Humanities Research Institute at SMU
 host-institution: SMU Libraries
 host-institution-url: https://www.smu.edu/libraries
-date-range: August 10-13, 2020
+date-range: August 02-13, 2021
 apply-link: https://southernmethodistuniversity.github.io/home/apply.html
 author: 
   name: DHRI@SMU
   email: rmirza@smu.edu
   url: https://www.smu.edu/Libraries
   twitter: smu_libraries 
+  github: https://github.com/SouthernMethodistUniversity/
   address: Fondren Library <br>6414 Robert S. Hyer Lane <br>Dallas, TX 75205 </br>
   description: DHRI at SMU is a program that is working towards building and sustaining an active community around the shared idea of Digital Humanities and Digital Scholarship. 
 

@@ -7,8 +7,8 @@ baseurl: /home
 title: Digital Humanities Research Institute at SMU
 host-institution: SMU Libraries
 host-institution-url: https://www.smu.edu/libraries
-date-range: August 8-12, 2022
-apply-link: https://southernmethodistuniversity.github.io/home/apply.html
+date-range:
+apply-link: 
 author: 
   name: DHRI@SMU
   email: rmirza@smu.edu

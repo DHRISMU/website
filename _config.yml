@@ -28,33 +28,42 @@ author:
 courses:
 
 - name: Intro
-  url:  https://southernmethodistuniversity.github.io/dhri/sections/dh.html
+  url:  https://southernmethodistuniversity.github.io/dhri/aboutDHRI.html
+  link-reference: Intro 
+  description: Introduction to the logistics and pedagogical underpinnings of DHRI. We will discuss expectations and structure. 
+- name: Digital Humanities
+  url:  https://southernmethodistuniversity.github.io/dhri/dh.html
   link-reference: dh 
-  description: Introduction to the logistics and pedagogical underpinnings of DHRI. We will discuss expectations and structure. We will establish a working definiton of what is (or what is not) DH. This concept is to be established collaboratively and will evolve during your experience.
+  description: We will establish a working definition of what is (or what is not) DH. This concept is to be established collaboratively and will evolve during your experience.
 - name: Data in the Humanities
-  url: https://southernmethodistuniversity.github.io/dhri/sections/data1.html
+  url: https://southernmethodistuniversity.github.io/dhri/data1.html
   link-reference: data1
   description: What is data, and what kinds of data can be useful in your research? Attendees will participate in conversations about best practices for data management, file naming rules, sustainable data formats, and structuring data.
 - name: Tools 
-  url: https://southernmethodistuniversity.github.io/dhri/sections/tools.html
+  url: https://southernmethodistuniversity.github.io/dhri/tools.html
   link-reference: tools
   description: This session will introduce DH tools. We will also discuss how to choose the best tool for your projects.
 - name: Coding
-  url: https://southernmethodistuniversity.github.io/dhri/sections/whycoding.html
+  url: https://southernmethodistuniversity.github.io/dhri/whycoding.html
   link -reference: whycoding
   description: What do we hope to accomplish in the sessions on coding? This session will discuss how to communicate directly with your computer’s operating system using a text-based interface and is a useful first step in learning many other technical skills. 
 - name: Python
-  url: https://southernmethodistuniversity.github.io/dhri/sections/python.html
+  url: https://southernmethodistuniversity.github.io/dhri/python.html
   link-reference: python
   description: Python is a programming language that can be used for a wide range of tasks, including collecting and analyzing data in a variety of formats. 
 - name: Use and Re-use of Data
-  url: https://southernmethodistuniversity.github.io/dhri/sections/data2.html
+  url: https://southernmethodistuniversity.github.io/dhri/data2.html
   link-reference: data2
   description: A discussion of issues around creating and accessing datasets; including copyright, licensing, and ethics.
 - name: Project Planning
-  url: https://southernmethodistuniversity.github.io/dhri/sections/pm.html#
+  url: https://southernmethodistuniversity.github.io/dhri/pm.html
   link-reference: pm
+  description: This session will introduce the process for designing your digital research project.
+- name: Once Day Project
+  url: https://southernmethodistuniversity.github.io/dhri/onedayproject.html
+  link-reference: odp
   description: This session will allow time to apply what we have learned throughout DHRI to your research interests.
+
 
 # this tells Jekyll to build the site in the "docs"
 # directory, which is ideal for hosting by GitHub Pages

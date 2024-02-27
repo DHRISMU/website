@@ -6,32 +6,25 @@ layout: default
 <section id="content" class="container">
   <div class="row">
     <div class="col-lg-12 mx-auto text-center">
-      <h2 class="text-primary text-center">
-	Sessions
-      </h2>
+      <h2 class="text-primary text-center"> Sessions </h2>
     <hr style="margin-bottom: 2rem" class="hr hr-primary" />
     </div>
   </div>
 
   <div class="row">
     <div class="col-md-10">
-
       <p>Below is a list of workshops that are scheduled for DHRI@SMU.</p>
       <p> Workshops build on each other such that successive workshops use skills developed in earlier ones.</p>
       <p><b> To see the schedule for May 13-16, 2024, <a href ="https://github.com/SouthernMethodistUniversity/dhri/blob/635495fd2600aaf6fcabc334e1e6d76fdabf7fa4/files/schedule.pdf"> click here.</a></b></p>
-      
-
     </div>
   </div>
 
     <div class="col-md-6 curriculum-box-offset offset-md-3">
       <table class="table table-striped" id="top">
-
-
 	{% for course in site.courses %}
 	<tr>
 	  <td>{{ course.name }}</td>
-	  <td><a href="#{{ course.link-reference }}">details</a></td>
+	  <td><a href="#{{ course.linkReference }}">details</a></td>
 	  <td><a href="{{ course.url }}" target="_blank">repo</a></td>
 	</tr>
       {% endfor %}
@@ -42,13 +35,13 @@ layout: default
 {% for course in site.courses %}
   <div class="row">
     <div class="col-md-8 offset-md-2">
-      <div class="card" id="{{ course.link-reference }}">
+      <div class="card" id="{{ course.linkReference }}">
         <div class="card-block">
           <div class="btn-group btn-group-sm pull-right" role="group" aria-label="{{ course.name }}">
             <a href="{{ course.url }}" class="btn btn-primary"><i class="fa fa-github"></i></a>
             <a href="#content" class="btn btn-primary"><i class="fa fa-chevron-up"></i></a>
           </div>
-          <h4 class="card-title"><a href="{{ course.link-reference }}">{{ course.name }}</a></h4>
+          <h4 class="card-title"><a href="{{ course.linkReference }}">{{ course.name }}</a></h4>
 
           <p class="card-text">
 	    {{ course.description }}
